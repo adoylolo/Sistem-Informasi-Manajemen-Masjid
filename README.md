@@ -4,7 +4,6 @@ Sistem Informasi dan Manajemen Masjid Al-Ikhlas merupakan website yang berfungsi
 [Demo aplikasi](https://masjid.muhammadfarhaan.my.id)
 
 ## Screenshot 
-![screenshot](ss.png)
 ![screenshot](ss2.png)
 
 ## Prerequisites
